@@ -6,7 +6,7 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
   ['584261088403', '👑 Junior - Creador 👑', true],
-  ['tunumero', '👑 JuniorBot09 - BOT 👑', true],
+  ['584165767145', '👑 JuniorBot09 - BOT 👑', true],
   ['584261088403', '👑 Kakashi - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
